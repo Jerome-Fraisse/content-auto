@@ -1,4 +1,4 @@
-# Projet de Génération Automatique d'Articles et d'Images
+# Projet de génération automatique d'articles et d'images
 
 Ce projet permet de générer des articles, de mettre en évidence des éléments importants dans le texte, et de créer des images illustratives basées sur le contenu de l'article. Le projet utilise plusieurs bibliothèques Python, ainsi que l'API OpenAI pour la traduction et la génération d'éléments textuels.
 
@@ -34,6 +34,7 @@ Le projet utilise les modèles de langage OpenAI ainsi que plusieurs bibliothèq
 Avant de commencer, assurez-vous que votre système dispose des éléments suivants :
 - Python 3.8 ou supérieur
 - Un compte OpenAI et une clé API pour accéder aux modèles GPT-3.5-turbo
+- Un compte Stable et une clé API pour generer les images d'illustration
 
 ### Bibliothèques Python utilisées :
 
